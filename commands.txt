@@ -10,3 +10,5 @@ git pull -m origin main - pulling code from remote to local branch
 git branch              - to check total number of branches and which one is current branch
 git branch branchName   - to create a new branch
 git checkout branchName - to switch branch
+git log                               - to check latest commit
+git branchName -D branchName          - to delete branch
