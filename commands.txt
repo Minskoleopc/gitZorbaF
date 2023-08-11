@@ -1,0 +1,1 @@
+git init    -- initlial it with git repo
