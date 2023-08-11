@@ -2,3 +2,4 @@ hello
 bye
 Hello from other user
 hello from firstUser
+I am making changes from A branch
