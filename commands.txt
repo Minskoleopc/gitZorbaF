@@ -6,3 +6,4 @@ git branch -M main  - to create the branch
 git remote add origin https://github.com/Minskoleopc/gitZorbaF.git 
 - to connect local with remote repo (one and different for every user)
 git push -u origin main - pushing code from local to remote
+git pull -m origin main - pulling code from remote to local branch
